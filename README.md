@@ -181,19 +181,7 @@ Full-Stack .NET Developer with hands-on experience building production-grade web
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalmanMahsood&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SalmanMahsood&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanMahsood&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SalmanMahsood&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
